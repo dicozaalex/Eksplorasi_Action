@@ -7,4 +7,5 @@ func main() {
 	var2 := "World"
 
 	fmt.Println(var1 + var2)
+	fmt.Println("tes linter")
 }
